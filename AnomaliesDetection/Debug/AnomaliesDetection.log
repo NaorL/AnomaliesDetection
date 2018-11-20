@@ -1,0 +1,22 @@
+﻿  exercise.c
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(127): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(228): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(229): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(230): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(231): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(232): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(233): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\naor\documents\visual studio 2015\projects\anomaliesdetection\anomaliesdetection\exercise.c(303): warning C4018: '>': signed/unsigned mismatch
+  AnomaliesDetection.vcxproj -> C:\Users\Naor\Documents\Visual Studio 2015\Projects\AnomaliesDetection\Debug\AnomaliesDetection.exe
+  AnomaliesDetection.vcxproj -> C:\Users\Naor\Documents\Visual Studio 2015\Projects\AnomaliesDetection\Debug\AnomaliesDetection.pdb (Full PDB)
